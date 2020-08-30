@@ -1,6 +1,7 @@
 # AngularGuide
 
 ## Sample angular application for [Heroku](http://www.heroku.com) deployment.
+## Demo application: [angular-guide](https://angular-guide.herokuapp.com/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.1.
 
